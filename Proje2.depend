@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1592309906 source:c:\users\alperen civelek\documents\codeblocks projects\proje2\main.c
+	<unistd.h>
+	<stdio.h>
+	<limits.h>
+	<stdlib.h>
+	<sys/stat.h>
+
